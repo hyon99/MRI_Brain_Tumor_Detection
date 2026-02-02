@@ -1,6 +1,6 @@
 This Medical Application Based Deep Learning Model consists of the DenseNet121 model,
 which is trained in MRI Scans Dataset from Kaggle where there are 4 classes of brain tumours to predict-['glioma', 'meningioma', 'notumor', 'pituitary'].
-The DenseNet121 is based upon advanced CNN architecture which where is used to classify the images using softmax activation function
+The DenseNet121 is based upon advanced CNN architecture which is used to classify the images using softmax activation function
 The input size is- 192x192x1, Batch Size- 32.
 First Epoches No-40.
 After Fine Turning- epoches no-15.
